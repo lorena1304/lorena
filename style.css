@@ -1,16 +1,16 @@
 body
-{background-color: rgba(0, 0, 0, 0.11);
+{background-color:ghostwhite
   }
     
 h1 {
-    color:rgb(76, 175, 98); 
+    color:darkolivegreen;
 }
 h2 { 
-    color:rgb(76, 156, 98);
+    color:darkolivegreen;
 }
-p {color: rgb(76, 156, 98);
+p {color:darkolivegreen;
 }
 ul{
-   color:rgb(76, 156, 98);/*rgb*/
+   color:darkolivegreen;/*darkolivegreen*/
 }
 body
