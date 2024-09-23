@@ -1,9 +1,4 @@
-head
-style
-li{
-    color: azure;
-}
-/style
+body
 {background-color: rgba(0, 0, 0, 0.973);}
     
 h1 {
@@ -14,3 +9,7 @@ h2 {
 }
 p {color: azure;
 }
+li{
+    color: azure;
+}
+body
