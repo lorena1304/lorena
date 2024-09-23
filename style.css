@@ -10,7 +10,7 @@ h2 {
 }
 p {color: azure;
 }
-li{
-    color: azure;
+ul{
+   color:azure(228, 223, 223);
 }
 body
