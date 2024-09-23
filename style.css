@@ -11,6 +11,6 @@ h2 {
 p {color: azure;
 }
 ul{
-   color:azure(228, 223, 223);
+   color:azure;/*azure*/
 }
 body
