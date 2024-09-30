@@ -1,5 +1,6 @@
 body
 {background-color:white;
+    text-align: left;
 }
     
 h1 {
@@ -8,9 +9,12 @@ h1 {
 h2 { 
     color:darkolivegreen;
 }
-p {color:darkolivegreen;
+p {
+    color:darkolivegreen;
+    font-style: italic;
+    font-size:small;
 }
 ul{
-   color:darkolivegreen;/*darkolivegreen*/
+color:darkolivegreen;/*darkolivegreen*/
 }
 body
