@@ -1,6 +1,7 @@
 body
 {background-color:white;
     text-align: left;
+    font-style:italic;
 }
     
 h1 {
@@ -11,8 +12,7 @@ h2 {
 }
 p {
     color:darkolivegreen;
-    font-style: italic;
-    font-size:small;
+    font-size:medium;
 }
 ul{
 color:darkolivegreen;/*darkolivegreen*/
