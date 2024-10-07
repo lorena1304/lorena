@@ -2,8 +2,8 @@ body
 {background-color:white;
     text-align: left;
     font-style:italic;
+    margin-left:auto;
 }
-    
 h1 {
     color:darkolivegreen;
 }
@@ -16,5 +16,59 @@ p {
 }
 ul{
 color:darkolivegreen;/*darkolivegreen*/
+}
+.img1{
+    width:auto;
+}
+.img2{
+    width:auto;
+}
+.img3{
+    width:auto;
+}
+.img4{
+    width:auto;
+}
+.img5{
+    width:auto;
+}
+.img6{
+    width:auto;
+}
+.img7{
+    width:auto;
+}
+.img8{
+    width:auto;
+}
+.img9{
+    width:auto;
+}
+.img10{
+    width:auto;
+}
+.img11{
+    width:auto
+}
+.img12{
+    width:auto;
+}
+.img13{
+    width:auto;
+}
+.img14{
+    width:auto;
+}
+.img15{
+    width:auto;
+}
+.img16{
+    width:auto;
+}
+.img17{
+    width:auto;
+}
+.img18{
+    width:auto;
 }
 body
