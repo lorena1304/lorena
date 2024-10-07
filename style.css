@@ -2,17 +2,20 @@ body
 {background-color:white;
     text-align: left;
     font-style:italic;
-    margin-left:auto;
+    margin-left: auto;
 }
 h1 {
     color:darkolivegreen;
+    margin-left: auto;
 }
 h2 { 
     color:darkolivegreen;
+    margin-left: auto;
 }
 p {
     color:darkolivegreen;
     font-size:medium;
+    margin-left: auto;
 }
 ul{
 color:darkolivegreen;/*darkolivegreen*/
