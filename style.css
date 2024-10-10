@@ -10,8 +10,6 @@ body
     background-color:darkolivegreen;
     padding: 20px; /* Espaçamento interno de 20px */
     border: 1px solid darkolivegreen;
-    .flex-container{
-    display: flex;
     }
      
     
