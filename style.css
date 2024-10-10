@@ -10,9 +10,6 @@ body
     background-color:darkolivegreen;
     padding: 20px; /* Espaçamento interno de 20px */
     }
-     
-    
-   
 }
 h1 {
     color:darkolivegreen;
@@ -20,7 +17,7 @@ h1 {
     font-size:xx-large;
     font-weight: bold;
     color:darkolivegreen;
-    text-align: center;
+    text-align:left;
     margin: 20px 0;
     text-shadow:darkolivegreen;
     display: inline;
@@ -31,7 +28,7 @@ h2 {
     font-size: 36px;
     font-weight: bold;
     color: darkolivegreen;
-    text-align: center;
+    text-align:left;
     margin: 20px 0;
     text-shadow:darkolivegreen;
 }
