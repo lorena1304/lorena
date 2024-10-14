@@ -4,8 +4,6 @@ body
     font-style:italic;
     margin-left: auto;
     margin-right: auto;
-    text-size-adjust:100%;
-    padding: 20px; /* 20px em todos os lados */
 }
 h1 {
     color:darkolivegreen;
@@ -16,7 +14,6 @@ h1 {
     text-align:left;
     margin: 20px 0;
     text-shadow:darkolivegreen;
-    display: inline;
 }
 h2 { 
     color:darkolivegreen;
