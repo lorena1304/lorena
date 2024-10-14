@@ -6,10 +6,6 @@ body
     margin-right: auto;
     text-size-adjust:100%;
     padding: 20px; /* 20px em todos os lados */
-    .box {
-    background-color:darkolivegreen;
-    padding: 20px; /* Espaçamento interno de 20px */
-    }
 }
 h1 {
     color:darkolivegreen;
